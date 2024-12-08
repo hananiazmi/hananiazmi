@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋 I'm Nur Hanani Binti Azmi!  
+
+✨ A passionate and driven Computer Science student, currently in my third year of the **Bachelor of Computer Science (Honours)** program. ✨  
+
+## 🌱 About Me  
+- 🔭 I’m currently working on exciting projects like **badminton court booking systems**, **image-based number plate recognition systems**, and even **innovative wireless laptop chargers**!  
+- 📚 Exploring the world of **ethical hacking** and **software development**, particularly in **C#** and **Dart**.  
+- 👯 I’m open to collaborations in **web development**, **mobile apps**, and **innovative IoT solutions**.  
+- ⚡ Fun fact: I love creating apps that solve real-world problems!  
+
+## 💬 Ask Me About  
+- Software development with **C#**, **C++**, and **Phyton**.  
+- Projects related to **vehicle management**, **kids game**, or **court booking systems**.  
+- My journey as a Computer Science student at **University College TATI**.
+
+## 📫 How to Reach Me  
+- 📧 Email: **[hananiazmi03@gmail.com](mailto:hananiazmi03@gmail.com)**  
+
+Let's connect and build something amazing together! 🚀  
+
+---  
+
+You can copy-paste this into your GitHub profile README and customize it further if needed! 😊
