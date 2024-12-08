@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 
 Let's connect and build something amazing together! 🚀  
 
+# 📊 GitHub Stats  
+
+![Nur Hanani Binti Azmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hananiazmi&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hananiazmi&layout=compact&theme=radical)  
