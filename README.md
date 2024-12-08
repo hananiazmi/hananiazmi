@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 
 Let's connect and build something amazing together! 🚀  
 
----  
-
-You can copy-paste this into your GitHub profile README and customize it further if needed! 😊
